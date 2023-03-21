@@ -100,14 +100,14 @@
 #     print(민기[i])
 
 
-민기 = []
-for i in range(1, 101):
-    if i % 3 == 0:
-        if i % 4 == 0:
-            민기.append(i)
-민기.sort()
-민기.reverse()
-print(민기)
-민기.sort()
-for i in range(len(민기)):
-    print(민기[i])
+# 민기 = []
+# for i in range(1, 101):
+#     if i % 3 == 0:
+#         if i % 4 == 0:
+#             민기.append(i)
+# 민기.sort()
+# 민기.reverse()
+# print(민기)
+# 민기.sort()
+# for i in range(len(민기)):
+#     print(민기[i])
